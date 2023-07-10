@@ -1,0 +1,126 @@
+{
+  "version.label": {
+    "message": "Siguiente",
+    "description": "La etiqueta de la versión actual"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual": {
+    "message": "Manual de capacitación de Paratext",
+    "description": "La etiqueta de la categoría Manual de capacitación de Paratext en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual.link.generated-index.description": {
+    "message": "     ",
+    "description": "La descripción de la página de índice generada para la categoría Manual de capacitación de Paratext en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 1 Drafting": {
+    "message": "Etapa 1 Redacción",
+    "description": "La etiqueta de la categoría Etapa 1 Redacción en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 2 Team Check": {
+    "message": "Etapa 2 Comprobación del equipo",
+    "description": "La etiqueta de la categoría Etapa 2 Comprobación del equipo en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 3 Prepare for Consultant check": {
+    "message": "Etapa 3 Prepararse para el chequeo del consultor",
+    "description": "La etiqueta de la categoría Etapa 3 Prepararse para el control de consultores en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 4 Consultant check": {
+    "message": "Etapa 4 Chequeo del consultor",
+    "description": "La etiqueta de la categoría Etapa 4 Chequeo del consultor en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 5 Community/External Review": {
+    "message": "Etapa 5 Revisión comunitaria/externa",
+    "description": "La etiqueta de la categoría Etapa 5 Revisión comunitaria/externa en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 6 Finalising for Publication": {
+    "message": "Etapa 6 Finalización para la publicación",
+    "description": "La etiqueta de la categoría Etapa 6 Finalización para la publicación en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Appendix": {
+    "message": "Apéndice",
+    "description": "La etiqueta de la categoría Apéndice en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Video Summaries": {
+    "message": "Resúmenes de vídeos de Paratext",
+    "description": "La etiqueta de la categoría Resúmenes de Vídeo de Paratext en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Video Summaries.link.generated-index.description": {
+    "message": " ",
+    "description": "La descripción de la página de índice generada para la categoría Resúmenes de vídeos de Paratext en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Introduction": {
+    "message": "Introducción",
+    "description": "La etiqueta de la categoría Introducción en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Windows and Navigation": {
+    "message": "Ventanas y navegación",
+    "description": "La etiqueta de la categoría Ventanas y Navegación en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project sharing": {
+    "message": "Compartir proyectos",
+    "description": "La etiqueta de la categoría Compartir proyecto en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project sharing.link.generated-index.description": {
+    "message": " ",
+    "description": "La descripción de la página de índice generada para la categoría Compartir proyectos en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Enhanced resources": {
+    "message": "Recursos aumentados",
+    "description": "La etiqueta de la categoría Recursos aumentados en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Drafting and Editing": {
+    "message": "Redacción y edición",
+    "description": "La etiqueta de la categoría Redacción y edición en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.USFM": {
+    "message": "USFM",
+    "description": "La etiqueta de la categoría USFM en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Basic Checks": {
+    "message": "Verificaciones básicas",
+    "description": "La etiqueta de la categoría Verificaciones básicas en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Additional": {
+    "message": "Adicional",
+    "description": "La etiqueta de la categoría Adicional en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spell check and Wordlist": {
+    "message": "Verificación ortográfica y lista de palabras",
+    "description": "La etiqueta de la categoría Corrección ortográfica y Lista de palabras en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Biblical Terms": {
+    "message": "Vocablos bíblicos",
+    "description": "La etiqueta de la categoría Vocablos bíblicos en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project Notes": {
+    "message": "Notas del proyecto",
+    "description": "La etiqueta de la categoría Notas del proyecto en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Back Translation": {
+    "message": "Retrotraducción",
+    "description": "La etiqueta de la categoría retrotraducción en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Custom interlinears": {
+    "message": "Interlineales personalizados",
+    "description": "La etiqueta de la categoría Interlineales personalizados en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.More Basic Checks": {
+    "message": "Más verificaciones básicas",
+    "description": "La etiqueta de la categoría Más verificaciones básicas en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administrator's Manual": {
+    "message": "Manual para administradores",
+    "description": "La etiqueta de la categoría Manual para administradores en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administrator's Manual.link.generated-index.description": {
+    "message": "     ",
+    "description": "La descripción de la página de índice generada para la categoría Manual para administradores en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administrator Videos": {
+    "message": "Vídeos para administradores",
+    "description": "La etiqueta de la categoría Videos para administradores en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administrator Videos.link.generated-index.description": {
+    "message": "     ",
+    "description": "La descripción de la página de índice generada para la categoría Videos para administradores en la barra lateral tutorialSidebar"
+  }
+}
