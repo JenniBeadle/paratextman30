@@ -9,7 +9,7 @@ A maioria das tarefas desta fase já foi abordada nos módulos anteriores.
 
 Os seguintes módulos irão ajudá-lo nesta fase:
 
-20. [**Ferramentas de Colaboração**](20.Collaboration-tools.md)
+20. [**Ferramentas de Colaboração**] (20.Collaboration-tools.md)
 
 Veja também os módulos nas Fases um a três. Em particular,  
 Fase 3 - 16. **BT1 - Elaborar uma Retrotradução**  

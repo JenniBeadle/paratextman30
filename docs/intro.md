@@ -20,6 +20,8 @@ It follows the six stages of the translation process covering most of the tasks 
 - :book: [Download the PDF version here](pathname:///img/Ptx-man-en-9.3.pdf)  
   - It has 25 chapters in 200 A5 pages to be printed as a booklet. Or used as an off-line copy.
  
-- Earlier verions (9.2 and 9.3) are available on [**this website**](https://JenniBeadle/paratextmanversions/). It contains English and French translations. 
+## Earlier versions (9.2 and 9.3)
+The are available on [**this website**](https://JenniBeadle/paratextmanversions/). These are only available in English and French. 
 
-- The Paratext Training Video Summaries have moved to [**this website**](https://jennibeadle.github.io/paratext-vidsum/). These are availalbe in English and French.
+## Video summaries
+The Paratext Training Video Summaries have moved to [**this website**](https://jennibeadle.github.io/paratext-vidsum/). These are only available in English and French.

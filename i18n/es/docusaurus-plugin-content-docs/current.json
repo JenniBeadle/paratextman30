@@ -1,43 +1,43 @@
 {
   "version.label": {
     "message": "Siguiente",
-    "description": "La etiqueta de la versión actual"
+    "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Paratext Training Manual": {
     "message": "Manual de capacitación de Paratext",
-    "description": "La etiqueta de la categoría Manual de capacitación de Paratext en la barra lateral tutorialSidebar"
+    "description": "The label for category Paratext Training Manual in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Paratext Training Manual.link.generated-index.description": {
     "message": "     ",
-    "description": "La descripción de la página de índice generada para la categoría Manual de capacitación de Paratext en la barra lateral tutorialSidebar"
+    "description": "The generated-index page description for category Paratext Training Manual in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage 1 Drafting": {
     "message": "Etapa 1 Redacción",
-    "description": "La etiqueta de la categoría Etapa 1 Redacción en la barra lateral tutorialSidebar"
+    "description": "The label for category Stage 1 Drafting in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage 2 Team Check": {
     "message": "Etapa 2 Comprobación del equipo",
-    "description": "La etiqueta de la categoría Etapa 2 Comprobación del equipo en la barra lateral tutorialSidebar"
+    "description": "The label for category Stage 2 Team Check in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage 3 Prepare for Consultant check": {
     "message": "Etapa 3 Prepararse para el chequeo del consultor",
-    "description": "La etiqueta de la categoría Etapa 3 Prepararse para el control de consultores en la barra lateral tutorialSidebar"
+    "description": "The label for category Stage 3 Prepare for Consultant check in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage 4 Consultant check": {
     "message": "Etapa 4 Chequeo del consultor",
-    "description": "La etiqueta de la categoría Etapa 4 Chequeo del consultor en la barra lateral tutorialSidebar"
+    "description": "The label for category Stage 4 Consultant check in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage 5 Community/External Review": {
     "message": "Etapa 5 Revisión comunitaria/externa",
-    "description": "La etiqueta de la categoría Etapa 5 Revisión comunitaria/externa en la barra lateral tutorialSidebar"
+    "description": "The label for category Stage 5 Community/External Review in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage 6 Finalising for Publication": {
     "message": "Etapa 6 Finalización para la publicación",
-    "description": "La etiqueta de la categoría Etapa 6 Finalización para la publicación en la barra lateral tutorialSidebar"
+    "description": "The label for category Stage 6 Finalising for Publication in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Appendix": {
     "message": "Apéndice",
-    "description": "La etiqueta de la categoría Apéndice en la barra lateral tutorialSidebar"
+    "description": "The label for category Appendix in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Paratext Video Summaries": {
     "message": "Resúmenes de vídeos de Paratext",
